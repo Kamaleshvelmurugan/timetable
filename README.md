@@ -102,7 +102,7 @@ Execute the program
 </html>
 
 
-# OUPUT
+# OUTPUT:
 ![](timetable.png)
 
  # RESULT
