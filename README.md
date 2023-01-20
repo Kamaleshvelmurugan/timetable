@@ -103,7 +103,7 @@ Execute the program
 
 
 # OUTPUT:
-![](kamalesh.png)
+![](kamalesh1.jpg)
 
  # RESULT
   The program is exceuted succesfully
