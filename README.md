@@ -103,7 +103,7 @@ Execute the program
 
 
 # OUTPUT:
-![](timetable.png)
+![](kamalesh.png)
 
  # RESULT
   The program is exceuted succesfully
